@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi Guys 👋
 
-This is Ganesh, I am a full stack developer and Tech enthusiast. 
+#### This is Ganesh, I am a full stack developer and Tech enthusiast. 
 
 - 🔭 I’m currently working on Javascript & Python
 - 🌱 I’m currently learning Rust & Phaser
