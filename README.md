@@ -3,7 +3,7 @@
 This is Ganesh, I am a full stack developer and Tech enthusiast. 
 
 - 🔭 I’m currently working on Javascript & Python
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust & Phaser
 - 💬 Ask me about Javascript,Nodejs,Java and Python
 - 📫 How to reach me: [Ganesh](https://twitter.com/ganesh_geeky)
 
