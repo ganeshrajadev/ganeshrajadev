@@ -7,9 +7,4 @@
 - 💬 Ask me about Javascript,Nodejs,Java and Python
 - 📫 How to reach me: [Ganesh](https://twitter.com/ganesh_geeky)
 
-<!--
-**ganeshraja10/ganeshraja10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshraja10)
