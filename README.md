@@ -7,4 +7,4 @@
 - 💬 Ask me about Javascript,Nodejs,Java and Python
 - 📫 How to reach me: [Ganesh](https://twitter.com/ganeshrajadev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshraja10&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrajadev&theme=radical)
