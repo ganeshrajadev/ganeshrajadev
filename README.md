@@ -1,6 +1,8 @@
-### Hi Guys 👋
+### Hi Guys 👋 This is Ganesh
 
-#### This is Ganesh, I am a full stack developer and Tech enthusiast. 
+ I am a Software Engineer who's passionate about System Design, Architecture, DevOps and Cutting Edge Tech. I have 7+ years in building multiple highly scalable and reliable services. I am currently working with [Workhall](https://workhall.com/) on building a no-code platform that can be easily used by anyone to build business apps. I have worked with [Humane](https://thehumane.life/) Besides work, I love [Reading](https://www.goodreads.com/beingganesh) & [Gaming](https://psnprofiles.com/Ganeshraja10).
+
+I can help you with building highly available and scalable services. drop me a message if you want to talk
 
 - 🔭 I’m currently working on Javascript & Python
 - 🌱 I’m currently learning Rust
